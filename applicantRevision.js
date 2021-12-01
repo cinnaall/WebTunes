@@ -106,6 +106,7 @@ function zipKey(val) {
 }
 }
 
+
 function submitBtn() {
 
     const selection = document.getElementById("position");
