@@ -100,6 +100,13 @@ function conNumber(contNum) {
     }
 }
 
+function zipKey(val) {
+    c++;
+    if (c == 4) {
+        val.value = '';
+        c = 0;
+    }
+}
 
 
 function submitBtn() {
