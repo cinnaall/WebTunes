@@ -104,7 +104,7 @@ function zipKey(val) {
     if (val.value.length == 4) {
         val.value = '';
 }
-
+}
 
 function submitBtn() {
 
